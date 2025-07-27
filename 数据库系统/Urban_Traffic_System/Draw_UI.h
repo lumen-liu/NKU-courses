@@ -1,0 +1,70 @@
+#pragma once
+#include <graphics.h>
+#include <bits/stdc++.h>
+#include <conio.h>
+#include <easyx.h>
+#include <mmsystem.h>
+#include <windows.h>
+#include <Windows.h>
+#include <tchar.h>
+#pragma comment(lib,"Winmm.lib")
+#include "Manager.h"
+
+using namespace std;
+
+#define WIDTH 1140   
+#define HEIGHT  600 
+
+
+void DRAW_LOGIN();
+
+void DRAW_CITY_MAIN();
+void DRAW_CITY_SELECT();
+void DRAW_CITY_SELECT_CITIES_ALL();
+void DRAW_CITY_SELECT_STATIONS();
+void DRAW_CITY_SELECT_LINES();
+void DRAW_CITY_INSERT();
+void DRAW_CITY_UPDATE();
+void DRAW_CITY_DELETE();
+
+void DRAW_STATION_MAIN();
+void DRAW_STATION_SELECT();
+void DRAW_STATION_SELECT_STATIONS_ALL();
+void DRAW_STATION_SELECT_CITIES();
+void DRAW_STATION_SELECT_PASSENGERS();
+void DRAW_STATION_INSERT();
+void DRAW_STATION_UPDATE();
+void DRAW_STATION_DELETE();
+
+void DRAW_PASSENGER_MAIN();
+void DRAW_PASSENGER_SELECT();
+void DRAW_PASSENGER_SELECT_PASSENGERS_ALL();
+void DRAW_PASSENGER_SELECT_STATIONS();
+void DRAW_PASSENGER_INSERT();
+void DRAW_PASSENGER_UPDATE();
+void DRAW_PASSENGER_DELETE();
+
+
+void DRAW_LINE_MAIN();
+void DRAW_LINE_SELECT();
+void DRAW_LINE_SELECT_LINES_ALL();
+void DRAW_LINE_SELECT_CITIES();
+void DRAW_LINE_SELECT_VEHICLES();
+void DRAW_LINE_INSERT();
+void DRAW_LINE_UPDATE();
+void DRAW_LINE_DELETE();
+
+
+void DRAW_VEHICLE_MAIN();
+void DRAW_VEHICLE_SELECT();
+void DRAW_VEHICLE_SELECT_VEHICLES_ALL();
+void DRAW_VEHICLE_SELECT_LINES();
+void DRAW_VEHICLE_SELECT_BUSES();
+void DRAW_VEHICLE_SELECT_SUBWAYS();
+void DRAW_VEHICLE_INSERT();
+void DRAW_VEHICLE_UPDATE();
+void DRAW_VEHICLE_DELETE();
+
+void DRAW_OTHERS_MAIN();
+void DRAW_OTHERS_PROCEDURE();
+void DRAW_OTHERS_VIEW();
