@@ -1,0 +1,7 @@
+**/VS
+**/node_modules
+*.DS_Store
+**/.cache
+**/.bash_profile
+**/.history
+**/.vscode
