@@ -17,7 +17,7 @@
 
 📚 **相关推荐**：
 
-- 本仓库与 [NKU-cyber](https://github.com/lumen-liu/NKU-cyber)、[NKU_Final_Exam](https://github.com/Luhaozhhhe/NKU_Final_Exam) 一起使用效果更佳。
+- 本仓库与 [NKU-cyber](https://github.com/lxmliu-2002/NKU-cyber)、[NKU_Final_Exam](https://github.com/Luhaozhhhe/NKU_Final_Exam) 一起使用效果更佳。
 
 - 更多内容请关注 [https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU)。
 
